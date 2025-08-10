@@ -1,0 +1,9 @@
+scikit-learn
+xgboost
+spacy
+transformers
+pandas
+numpy
+matplotlib
+pyodbc
+  Added requirements.txt with project dependencies
