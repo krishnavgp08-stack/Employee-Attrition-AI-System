@@ -6,4 +6,3 @@ pandas
 numpy
 matplotlib
 pyodbc
-  Added requirements.txt with project dependencies
